@@ -45,7 +45,7 @@ Fruits, Snacks, and Household items are among the top-selling categories, while 
 High outlet size stores ($507K sales) outperform medium and small outlets, suggesting scalability drives revenue.
 Sales peaked in 2018 ($205K) but slightly declined afterward, indicating potential for re-strategizing marketing and product placement.
 
-📷 ![Image]()
+📷 ![Image](https://github.com/snigdhasikdar90-arch/BLINKIT-SALES-DATA-ANALYSIS-DASHBOARD/blob/main/Blinkit%20Dashboard%20Picture.png?raw=true)
 
 📝 Conclusion
 
@@ -53,3 +53,6 @@ The Blinkit Sales Analysis Dashboard helps in:
 ✔ Identifying top-performing categories & outlets
 ✔ Understanding customer preferences by item type & fat content
 ✔ Supporting data-driven decision-making for sales strategy
+
+## CONTACT-
+LINKDIN ACCOUNT-www.linkedin.com/in/snigdha-sikdar-85b391377
